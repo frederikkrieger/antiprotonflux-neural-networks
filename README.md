@@ -16,6 +16,8 @@ with
 ```python
 from antiproton_flux_python import dphidlogK
 ```
-in the neural network files. This will use a pure python computation and is therefore slower.
+in the neural network files. This will use a pure python implementation and is therefore slower.
 
-The semi-analytical calculation can be found in https://arxiv.org/abs/1012.4515. The data used is taken from the website http://www.marcocirelli.net/PPPC4DMID.html.
+The semi-analytical calculation can be found in <https://arxiv.org/abs/1012.4515>. The data used is taken from the website <http://www.marcocirelli.net/PPPC4DMID.html>.
+
+If you run into any problems or have questions, feel free to contact me at <frederik.krieger@rwth-aachen.de>.
